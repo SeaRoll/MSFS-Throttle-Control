@@ -1,0 +1,2 @@
+C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\x64\Debug\ThrottleControl.exe
+C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\x64\Debug\ThrottleControl.pdb
