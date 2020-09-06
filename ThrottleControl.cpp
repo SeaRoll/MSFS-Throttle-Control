@@ -10,6 +10,7 @@
 #include <windows.h>
 #include <tchar.h>
 #include <stdio.h>
+#include <iostream>
 #include <strsafe.h>
 
 #include "SimConnect.h"
@@ -169,9 +170,20 @@ void testThrottleControl()
     }
 }
 
+void ProgramStart() 
+{
+    int userChoice;
+    do {
+        std::cout << "Hello, Type 1 to continue: " << std::endl;
+        std::cin >> userChoice;
+    } while (userChoice != 1);
+
+    testThrottleControl();
+}
+
+
 int __cdecl _tmain(int argc, _TCHAR* argv[])
 {
-    testThrottleControl();
-
+    ProgramStart();
 	return 0;
 }

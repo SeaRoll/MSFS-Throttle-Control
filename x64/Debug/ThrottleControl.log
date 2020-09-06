@@ -1,7 +1,7 @@
 ﻿  ThrottleControl.cpp
-C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\ThrottleControl.cpp(22,2): warning C4091: 'static ': ignored on left of 'GROUP_ID' when no variable is declared
-C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\ThrottleControl.cpp(25,2): warning C4091: 'static ': ignored on left of 'INPUT_ID' when no variable is declared
-C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\ThrottleControl.cpp(31,2): warning C4091: 'static ': ignored on left of 'EVENT_ID' when no variable is declared
-C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\ThrottleControl.cpp(35,2): warning C4091: 'static ': ignored on left of 'DATA_DEFINE_ID' when no variable is declared
-C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\ThrottleControl.cpp(39,2): warning C4091: 'static ': ignored on left of 'DATA_REQUEST_ID' when no variable is declared
+C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\ThrottleControl.cpp(23,2): warning C4091: 'static ': ignored on left of 'GROUP_ID' when no variable is declared
+C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\ThrottleControl.cpp(26,2): warning C4091: 'static ': ignored on left of 'INPUT_ID' when no variable is declared
+C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\ThrottleControl.cpp(32,2): warning C4091: 'static ': ignored on left of 'EVENT_ID' when no variable is declared
+C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\ThrottleControl.cpp(36,2): warning C4091: 'static ': ignored on left of 'DATA_DEFINE_ID' when no variable is declared
+C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\ThrottleControl.cpp(40,2): warning C4091: 'static ': ignored on left of 'DATA_REQUEST_ID' when no variable is declared
   ThrottleControl.vcxproj -> C:\MSFS SDK\Samples\SimConnectSamples\ThrottleControl\x64\Debug\ThrottleControl.exe
